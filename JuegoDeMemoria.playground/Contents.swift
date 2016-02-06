@@ -2,8 +2,6 @@
 
 import UIKit
 
-print("hola")
-
 for i in 0...100 {
     if i % 5 == 0 {
         print("\(i) Bingo!!!")
